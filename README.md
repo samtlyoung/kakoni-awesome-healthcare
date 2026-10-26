@@ -181,6 +181,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 ### Research
   * [i2b2](https://www.i2b2.org) - Research data warehouse.
   * [LabKey Server](https://www.labkey.com/products-services/labkey-server/) - Platform for Translational Research.
+* [Level Outpatient Healthcare Financial Benchmarks](https://levelcfo.com/benchmarks/healthcare/) - Open dataset of outpatient clinic revenue-cycle metrics (Days in Net A/R, POS collection %, claim denial rates) and EHR/ERA-835 to general-ledger reconciliation benchmarks ([GitHub](https://github.com/levelcfo/smb-financial-benchmarks)).
 
 ### Integration
   * [FHIR Converter](https://github.com/microsoft/FHIR-Converter) - an open source project that enables conversion of health data from legacy formats to FHIR.
